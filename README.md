@@ -1,0 +1,1 @@
+"# mnist_aidemy2" 
